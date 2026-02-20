@@ -38,24 +38,6 @@ This repo focuses on widely used, accessible datasets, especially those that wor
 
 ---
 
-## Repository structure
-
-air-quality-philippines/
-├─ README.md
-├─ notebooks/ # step-by-step analysis and explanation
-├─ gee/
-│ ├─ scripts/ # reusable GEE JS scripts
-│ └─ exports/ # sample exported CSVs (small, shareable)
-├─ data/
-│ ├─ raw/ # keep local (gitignored)
-│ └─ processed/
-├─ figures/ # plots for the README/docs
-├─ docs/ # glossary, QA/QC notes, PH context notes
-└─ src/ # helper functions (python)
-
-
----
-
 ## Getting started
 
 ### Use Google Earth Engine scripts
